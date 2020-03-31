@@ -8,7 +8,7 @@ Data gathered from two magazine surveys that were both conducted via mail:
 1) Psychology Today (1969) 
 2) Redbook (1974/ American women's magazine that publishes since 1903 https://en.wikipedia.org/wiki/Redbook) - Women only data ==> SOS: frequency of gender="female"
 
-Dataset inclusion criteria:
+Dataset exclusion criteria:
 - People who were married more than once were excluded
 - Unemployed people were also excuded
 - Excluded people that failed to answer all questions
